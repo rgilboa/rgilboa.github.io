@@ -3,8 +3,6 @@ logo: "/images/20190203_104337.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Graduate Student in Ocean Engineering 
   <br><br>
-  Department of ...
-  <br><br>
   <a href="https://www.linkedin.com/in/roy-gilboa/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
