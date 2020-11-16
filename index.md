@@ -5,13 +5,13 @@ Has existed for the duration of several orbits around the Sun.<br></p>
 ### Education
 <p>Somewhat familiar with reading, writing, and 'rithmetic.</p>
 [Project 1 Title](/sample_page)
-<img src="images/20190203_104337.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Work Experience
-<p>Bagger<br>
-Bus driver<br>
-Bengineer<br>
+<p>Bagger,<br>
+Bus driver,<br>
+Bengineer<br><br>
 
 One of these is not like the other...</p>
 
