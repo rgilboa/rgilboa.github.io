@@ -1,23 +1,23 @@
 ## Bio
-Human being from the planet Earth.
-Has existed for the duration of several orbits around the Sun.
+<p>Human being from the planet Earth.<br>
+Has existed for the duration of several orbits around the Sun.<br></p>
 ---
 ### Education
-Somewhat familiar with reading, writing, and 'rithmetic.
+<p>Somewhat familiar with reading, writing, and 'rithmetic.</p>
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/20190203_104337.jpg?raw=true"/>
 
 ---
 ### Work Experience
-Bagger
-Bus driver
-Bengineer
+<p>Bagger<br>
+Bus driver<br>
+Bengineer<br>
 
-One of these is not like the other...
+One of these is not like the other...</p>
 
 ---
 ### Recent Projects
-Launched myself and many of my belongings across a fairly large continent.
+<p>Launched myself and many of my belongings across a fairly large continent.</p>
 
 - [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
 
